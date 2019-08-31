@@ -1,0 +1,21 @@
+{"practice":
+	{"mappings":
+		{"article":
+			{
+			"properties":
+				{
+				"order":{"type":"integer"},
+				"IDtitle":{"type":"keyword"}, 
+				"title":{"type":"keyword"},  
+				"year":{"type":"integer"},
+				"author_id":{"type":"keyword"},
+				"author_full_name":{"type":"keyword"},
+				"author_first_name":{"type":"keyword"}, 
+				"gender":{"type":"keyword"}, 
+				"probability":{"type":"integer"}, 
+				"count":{"type":"integer"}
+				}
+			}
+		}
+	}
+}

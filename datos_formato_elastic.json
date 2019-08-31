@@ -1,0 +1,2817 @@
+{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23666643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 1,
+    "IDtitle": 8446903070274410350,
+    "title": "Parallel Integer Sorting and Simulation Amongst CRCW Models.",
+    "year": 1996,
+    "author_id": 2785008743179831026,
+    "author_full_name": "Sanjeev Saxena",
+    "author_first_name": "Sanjeev",
+    "gender": "male",
+    "probability": 100,
+    "count": 125
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23667643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 2,
+    "IDtitle": 3277453063897172648,
+    "title": "Pattern Matching in Trees and Nets.",
+    "year": 1983,
+    "author_id": 2850847607984689458,
+    "author_full_name": "Hans Ulrich Simon",
+    "author_first_name": "Hans",
+    "gender": "male",
+    "probability": 99,
+    "count": 431
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23668643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 3,
+    "IDtitle": 1574610707873786682,
+    "title": "NP-complete Problems Simplified on Tree Schemas.",
+    "year": 1983,
+    "author_id": 676111463542962437,
+    "author_full_name": "Nathan Goodman",
+    "author_first_name": "Nathan",
+    "gender": "male",
+    "probability": 100,
+    "count": 1632
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23669643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 4,
+    "IDtitle": 1574610707873786682,
+    "title": "NP-complete Problems Simplified on Tree Schemas.",
+    "year": 1983,
+    "author_id": 261032337184953235,
+    "author_full_name": "Oded Shmueli",
+    "author_first_name": "Oded",
+    "gender": "male",
+    "probability": 100,
+    "count": 12
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366a643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 5,
+    "IDtitle": 4990175542986643879,
+    "title": "On the Power of Chain Rules in Context Free Grammars.",
+    "year": 1982,
+    "author_id": 2137083871297978015,
+    "author_full_name": "Norbert Blum",
+    "author_first_name": "Norbert",
+    "gender": "male",
+    "probability": 100,
+    "count": 77
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366b643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 6,
+    "IDtitle": 7322570299716329851,
+    "title": "Schnelle Multiplikation von Polynomen \u00fcber K\u00f6rpern der Charakteristik 2.",
+    "year": 1977,
+    "author_id": 3462371416934862900,
+    "author_full_name": "Arnold Sch\u00f6nhage",
+    "author_first_name": "Arnold",
+    "gender": "male",
+    "probability": 98,
+    "count": 186
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366c643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 7,
+    "IDtitle": 6308406601133784559,
+    "title": "A characterization of rational D0L power series.",
+    "year": 2011,
+    "author_id": 7545629959931999050,
+    "author_full_name": "Juha Honkala",
+    "author_first_name": "Juha",
+    "gender": "male",
+    "probability": 100,
+    "count": 97
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366d643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 8,
+    "IDtitle": 8822654998016595446,
+    "title": "The Derivation of Systolic Implementations of Programs.",
+    "year": 1987,
+    "author_id": 2625609011619138764,
+    "author_full_name": "Chua Huang Huang",
+    "author_first_name": "Chua",
+    "gender": "female",
+    "probability": 51,
+    "count": 49
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366e643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 9,
+    "IDtitle": 8822654998016595446,
+    "title": "The Derivation of Systolic Implementations of Programs.",
+    "year": 1987,
+    "author_id": 879372332020061473,
+    "author_full_name": "Christian Lengauer",
+    "author_first_name": "Christian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2548
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2366f643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 10,
+    "IDtitle": 5232968767995715525,
+    "title": "Fifo Nets Without Order Deadlock.",
+    "year": 1988,
+    "author_id": 6450421923438988042,
+    "author_full_name": "Alain Finkel",
+    "author_first_name": "Alain",
+    "gender": "male",
+    "probability": 100,
+    "count": 482
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23670643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 11,
+    "IDtitle": 5232968767995715525,
+    "title": "Fifo Nets Without Order Deadlock.",
+    "year": 1988,
+    "author_id": 4268367119485380627,
+    "author_full_name": "Annie Choquet",
+    "author_first_name": "Annie",
+    "gender": "female",
+    "probability": 100,
+    "count": 1120
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23671643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 12,
+    "IDtitle": 1520267165960673954,
+    "title": "On the Complementation Rule for Multivalued Dependencies in Database Relations.",
+    "year": 1978,
+    "author_id": 2615500834139224373,
+    "author_full_name": "Joachim Biskup",
+    "author_first_name": "Joachim",
+    "gender": "male",
+    "probability": 100,
+    "count": 137
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23672643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 13,
+    "IDtitle": 2651053565832631204,
+    "title": "Equational weighted tree transformations.",
+    "year": 2012,
+    "author_id": 3292717125313270636,
+    "author_full_name": "Symeon Bozapalidis",
+    "author_first_name": "Symeon",
+    "gender": "male",
+    "probability": 100,
+    "count": 2
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23673643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 14,
+    "IDtitle": 2651053565832631204,
+    "title": "Equational weighted tree transformations.",
+    "year": 2012,
+    "author_id": 2910125434640971256,
+    "author_full_name": "Zolt\u00e1n F\u00fcl\u00f6p 0001",
+    "author_first_name": "Zolt\u00e1n",
+    "gender": "male",
+    "probability": 100,
+    "count": 1
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23674643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 15,
+    "IDtitle": 2651053565832631204,
+    "title": "Equational weighted tree transformations.",
+    "year": 2012,
+    "author_id": 5175381179611557041,
+    "author_full_name": "George Rahonis",
+    "author_first_name": "George",
+    "gender": "male",
+    "probability": 99,
+    "count": 2098
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23675643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 16,
+    "IDtitle": 3218940357486090165,
+    "title": "Merged processes: a new condensed representation of Petri net behaviour.",
+    "year": 2006,
+    "author_id": 125454898831589956,
+    "author_full_name": "Victor Khomenko",
+    "author_first_name": "Victor",
+    "gender": "male",
+    "probability": 100,
+    "count": 2234
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23676643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 17,
+    "IDtitle": 3218940357486090165,
+    "title": "Merged processes: a new condensed representation of Petri net behaviour.",
+    "year": 2006,
+    "author_id": 3687701422723188328,
+    "author_full_name": "Alex Kondratyev",
+    "author_first_name": "Alex",
+    "gender": "male",
+    "probability": 87,
+    "count": 5856
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23677643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 18,
+    "IDtitle": 3218940357486090165,
+    "title": "Merged processes: a new condensed representation of Petri net behaviour.",
+    "year": 2006,
+    "author_id": 9080293799799366990,
+    "author_full_name": "Maciej Koutny",
+    "author_first_name": "Maciej",
+    "gender": "male",
+    "probability": 100,
+    "count": 76
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23678643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 19,
+    "IDtitle": 3218940357486090165,
+    "title": "Merged processes: a new condensed representation of Petri net behaviour.",
+    "year": 2006,
+    "author_id": 1011563857658732572,
+    "author_full_name": "Walter Vogler",
+    "author_first_name": "Walter",
+    "gender": "male",
+    "probability": 100,
+    "count": 864
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23679643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 20,
+    "IDtitle": 6320336405790048813,
+    "title": "Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.",
+    "year": 2013,
+    "author_id": 1709792055880929888,
+    "author_full_name": "Wim H  Hesselink",
+    "author_first_name": "Wim",
+    "gender": "male",
+    "probability": 99,
+    "count": 96
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367a643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 21,
+    "IDtitle": 5047276373516536347,
+    "title": "A Three-Stage Construction for Multiconnection Networks.",
+    "year": 1983,
+    "author_id": 1311383527003004353,
+    "author_full_name": "Christian Ronse",
+    "author_first_name": "Christian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2548
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367b643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 22,
+    "IDtitle": 99423950349506720,
+    "title": "The Expressive Power of Delay Operators in SCCS.",
+    "year": 1991,
+    "author_id": 5055934552578360275,
+    "author_full_name": "Carol Critchlow",
+    "author_first_name": "Carol",
+    "gender": "female",
+    "probability": 99,
+    "count": 2345
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367c643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 23,
+    "IDtitle": 99423950349506720,
+    "title": "The Expressive Power of Delay Operators in SCCS.",
+    "year": 1991,
+    "author_id": 2945989511825678647,
+    "author_full_name": "Prakash Panangaden",
+    "author_first_name": "Prakash",
+    "gender": "male",
+    "probability": 100,
+    "count": 76
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367d643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 24,
+    "IDtitle": 995116830696320197,
+    "title": "Verification of asynchronous systems with an unspecified component.",
+    "year": 2019,
+    "author_id": 3581258553535534927,
+    "author_full_name": "Rosa Abbasi",
+    "author_first_name": "Rosa",
+    "gender": "female",
+    "probability": 99,
+    "count": 947
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367e643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 25,
+    "IDtitle": 995116830696320197,
+    "title": "Verification of asynchronous systems with an unspecified component.",
+    "year": 2019,
+    "author_id": 7457606723857093738,
+    "author_full_name": "Fatemeh Ghassemi",
+    "author_first_name": "Fatemeh",
+    "gender": "female",
+    "probability": 100,
+    "count": 12
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2367f643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 26,
+    "IDtitle": 995116830696320197,
+    "title": "Verification of asynchronous systems with an unspecified component.",
+    "year": 2019,
+    "author_id": 5748900125664327921,
+    "author_full_name": "Ramtin Khosravi",
+    "author_first_name": "Ramtin",
+    "gender": "male",
+    "probability": 100,
+    "count": 4
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23680643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 27,
+    "IDtitle": 8334504205273441031,
+    "title": "Calculi for Interaction.",
+    "year": 1996,
+    "author_id": 6740920421678739726,
+    "author_full_name": "Robin Milner",
+    "author_first_name": "Robin",
+    "gender": "female",
+    "probability": 59,
+    "count": 1628
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23681643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 28,
+    "IDtitle": 1341409245094791704,
+    "title": "A Synthesis of Several Sorting Algorithms.",
+    "year": 1978,
+    "author_id": 8983273642106143075,
+    "author_full_name": "John Darlington",
+    "author_first_name": "John",
+    "gender": "male",
+    "probability": 99,
+    "count": 9931
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23682643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 29,
+    "IDtitle": 6607118808600070294,
+    "title": "A Workload Model Representative of Static and Dynamic Characteristics.",
+    "year": 1986,
+    "author_id": 3192860805758941613,
+    "author_full_name": "Maria Calzarossa",
+    "author_first_name": "Maria",
+    "gender": "female",
+    "probability": 99,
+    "count": 8402
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23683643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 30,
+    "IDtitle": 6607118808600070294,
+    "title": "A Workload Model Representative of Static and Dynamic Characteristics.",
+    "year": 1986,
+    "author_id": 8495788010481506772,
+    "author_full_name": "M  Italiani",
+    "author_first_name": "M",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23684643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 31,
+    "IDtitle": 6607118808600070294,
+    "title": "A Workload Model Representative of Static and Dynamic Characteristics.",
+    "year": 1986,
+    "author_id": 608930187514207151,
+    "author_full_name": "Giuseppe Serazzi",
+    "author_first_name": "Giuseppe",
+    "gender": "male",
+    "probability": 100,
+    "count": 774
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23685643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 32,
+    "IDtitle": 8182515898248522200,
+    "title": "Gray visiting Motzkins.",
+    "year": 2002,
+    "author_id": 3954855820451254939,
+    "author_full_name": "Vincent Vajnovszki",
+    "author_first_name": "Vincent",
+    "gender": "male",
+    "probability": 100,
+    "count": 1424
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23686643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 33,
+    "IDtitle": 3851851504319719792,
+    "title": "Trace- and failure-based semantics for responsiveness.",
+    "year": 2014,
+    "author_id": 1011563857658732572,
+    "author_full_name": "Walter Vogler",
+    "author_first_name": "Walter",
+    "gender": "male",
+    "probability": 100,
+    "count": 864
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23687643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 34,
+    "IDtitle": 3851851504319719792,
+    "title": "Trace- and failure-based semantics for responsiveness.",
+    "year": 2014,
+    "author_id": 1458716693850036956,
+    "author_full_name": "Christian Stahl",
+    "author_first_name": "Christian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2548
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23688643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 35,
+    "IDtitle": 3851851504319719792,
+    "title": "Trace- and failure-based semantics for responsiveness.",
+    "year": 2014,
+    "author_id": 8456750844893453724,
+    "author_full_name": "Richard M\u00fcller 0001",
+    "author_first_name": "Richard",
+    "gender": "male",
+    "probability": 100,
+    "count": 4381
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23689643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 36,
+    "IDtitle": 6444801671714466667,
+    "title": "Branching Processes in the Analysis of the Heights of Trees.",
+    "year": 1987,
+    "author_id": 2638968870144090363,
+    "author_full_name": "Luc Devroye",
+    "author_first_name": "Luc",
+    "gender": "male",
+    "probability": 97,
+    "count": 258
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368a643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 37,
+    "IDtitle": 1512183111264969444,
+    "title": "Least Upper Bound on the Cost of Optimum Binary Search Trees.",
+    "year": 1972,
+    "author_id": 442563297542201241,
+    "author_full_name": "T  C  Hu",
+    "author_first_name": "T",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368b643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 38,
+    "IDtitle": 1512183111264969444,
+    "title": "Least Upper Bound on the Cost of Optimum Binary Search Trees.",
+    "year": 1972,
+    "author_id": 8433269589376507360,
+    "author_full_name": "K  C  Tan",
+    "author_first_name": "K",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368c643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 39,
+    "IDtitle": 2512414459268756337,
+    "title": "The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.",
+    "year": 1976,
+    "author_id": 3434572533657240734,
+    "author_full_name": "William R  Franta",
+    "author_first_name": "William",
+    "gender": "male",
+    "probability": 100,
+    "count": 2626
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368d643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 40,
+    "IDtitle": 8522524877578480190,
+    "title": "Invariants, Composition, and Substitution.",
+    "year": 1995,
+    "author_id": 947977770194596099,
+    "author_full_name": "Ekkart Kindler",
+    "author_first_name": "Ekkart",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368e643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 41,
+    "IDtitle": 2451833492568455512,
+    "title": "Maximum Entropy and the ",
+    "year": 1986,
+    "author_id": 4573277213635706698,
+    "author_full_name": "Demetres D  Kouvatsos",
+    "author_first_name": "Demetres",
+    "gender": "female",
+    "probability": 50,
+    "count": 2
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2368f643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 42,
+    "IDtitle": 5345062755863400176,
+    "title": "Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.",
+    "year": 2000,
+    "author_id": 4163276020790921867,
+    "author_full_name": "Sergei Gorlatch",
+    "author_first_name": "Sergei",
+    "gender": "male",
+    "probability": 97,
+    "count": 38
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23690643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 43,
+    "IDtitle": 5345062755863400176,
+    "title": "Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.",
+    "year": 2000,
+    "author_id": 879372332020061473,
+    "author_full_name": "Christian Lengauer",
+    "author_first_name": "Christian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2548
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23691643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 44,
+    "IDtitle": 9146962326251824032,
+    "title": "A theory of structural stationarity in the ",
+    "year": 2009,
+    "author_id": 1864438870194294443,
+    "author_full_name": "Roland Meyer",
+    "author_first_name": "Roland",
+    "gender": "male",
+    "probability": 100,
+    "count": 255
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23692643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 45,
+    "IDtitle": 6238780889894002025,
+    "title": "Hex ist PSPACE-vollst\u00e4ndig.",
+    "year": 1981,
+    "author_id": 1626631313368928471,
+    "author_full_name": "Stefan Reisch",
+    "author_first_name": "Stefan",
+    "gender": "male",
+    "probability": 100,
+    "count": 917
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23693643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 46,
+    "IDtitle": 3445374046677927649,
+    "title": "Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.",
+    "year": 2000,
+    "author_id": 5877525665825336090,
+    "author_full_name": "Erzs\u00e9bet Csuhaj Varj\u00fa",
+    "author_first_name": "Erzs\u00e9bet",
+    "gender": "female",
+    "probability": 100,
+    "count": 3
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23694643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 47,
+    "IDtitle": 3445374046677927649,
+    "title": "Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.",
+    "year": 2000,
+    "author_id": 2225207285490412786,
+    "author_full_name": "Victor Mitrana",
+    "author_first_name": "Victor",
+    "gender": "male",
+    "probability": 100,
+    "count": 2234
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23695643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 48,
+    "IDtitle": 5860003880391442959,
+    "title": "Disjunctivity and other properties of sets of pseudo-bordered words.",
+    "year": 2017,
+    "author_id": 5225277242485202774,
+    "author_full_name": "Lila Kari",
+    "author_first_name": "Lila",
+    "gender": "female",
+    "probability": 99,
+    "count": 137
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23696643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 49,
+    "IDtitle": 5860003880391442959,
+    "title": "Disjunctivity and other properties of sets of pseudo-bordered words.",
+    "year": 2017,
+    "author_id": 73507021781620823,
+    "author_full_name": "Manasi S  Kulkarni",
+    "author_first_name": "Manasi",
+    "gender": "female",
+    "probability": 100,
+    "count": 60
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23697643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 50,
+    "IDtitle": 8533645096091603226,
+    "title": "Relational structures model of concurrency.",
+    "year": 2008,
+    "author_id": 5906034044690391596,
+    "author_full_name": "Ryszard Janicki",
+    "author_first_name": "Ryszard",
+    "gender": "male",
+    "probability": 100,
+    "count": 29
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23698643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 51,
+    "IDtitle": 2507622023342542244,
+    "title": "On an Equivalence between Continuation and Stack Semantics.",
+    "year": 1977,
+    "author_id": 6368412754747487805,
+    "author_full_name": "Bruce Russell",
+    "author_first_name": "Bruce",
+    "gender": "male",
+    "probability": 100,
+    "count": 800
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23699643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 52,
+    "IDtitle": 8713608094397283312,
+    "title": "Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.",
+    "year": 1974,
+    "author_id": 7350135763606014916,
+    "author_full_name": "Andrzej Ehrenfeucht",
+    "author_first_name": "Andrzej",
+    "gender": "male",
+    "probability": 98,
+    "count": 50
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369a643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 53,
+    "IDtitle": 8713608094397283312,
+    "title": "Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.",
+    "year": 1974,
+    "author_id": 4391831865228464420,
+    "author_full_name": "Grzegorz Rozenberg",
+    "author_first_name": "Grzegorz",
+    "gender": "male",
+    "probability": 98,
+    "count": 56
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369b643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 54,
+    "IDtitle": 5159032927468462998,
+    "title": "A Note on the Density of Inherently Ambiguous Context-free Languages.",
+    "year": 1980,
+    "author_id": 7170258333018017225,
+    "author_full_name": "Rainer Kemp",
+    "author_first_name": "Rainer",
+    "gender": "male",
+    "probability": 99,
+    "count": 84
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369c643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 55,
+    "IDtitle": 981542836087082928,
+    "title": "Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.",
+    "year": 1989,
+    "author_id": 7142924747766439734,
+    "author_full_name": "Yijie Han",
+    "author_first_name": "Yijie",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369d643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 56,
+    "IDtitle": 981542836087082928,
+    "title": "Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.",
+    "year": 1989,
+    "author_id": 391687950899079022,
+    "author_full_name": "Yoshihide Igarashi",
+    "author_first_name": "Yoshihide",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369e643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 57,
+    "IDtitle": 8969559354669834918,
+    "title": "Computational Algorithms for Networks of Queues with Rejection Blocking.",
+    "year": 1989,
+    "author_id": 8904458116524047206,
+    "author_full_name": "Ian F  Akyildiz",
+    "author_first_name": "Ian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2159
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2369f643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 58,
+    "IDtitle": 8969559354669834918,
+    "title": "Computational Algorithms for Networks of Queues with Rejection Blocking.",
+    "year": 1989,
+    "author_id": 5584669394022239967,
+    "author_full_name": "Horst von Brand",
+    "author_first_name": "Horst",
+    "gender": "male",
+    "probability": 100,
+    "count": 34
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 59,
+    "IDtitle": 2129237736937520173,
+    "title": "Compositional Refinements in Multiple Blackboard Systems.",
+    "year": 1995,
+    "author_id": 3183370422235620503,
+    "author_full_name": "X  J  Chen",
+    "author_first_name": "X",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 60,
+    "IDtitle": 2129237736937520173,
+    "title": "Compositional Refinements in Multiple Blackboard Systems.",
+    "year": 1995,
+    "author_id": 7165315781681752930,
+    "author_full_name": "Carlo Montangero",
+    "author_first_name": "Carlo",
+    "gender": "male",
+    "probability": 99,
+    "count": 423
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 61,
+    "IDtitle": 507854612184810462,
+    "title": "Special issue on \"Combining Compositionality and Concurrency\": part 1.",
+    "year": 2015,
+    "author_id": 1179896089834110677,
+    "author_full_name": "Rob J  van Glabbeek",
+    "author_first_name": "Rob",
+    "gender": "male",
+    "probability": 99,
+    "count": 2262
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 62,
+    "IDtitle": 507854612184810462,
+    "title": "Special issue on \"Combining Compositionality and Concurrency\": part 1.",
+    "year": 2015,
+    "author_id": 7972152858972668728,
+    "author_full_name": "Ursula Goltz",
+    "author_first_name": "Ursula",
+    "gender": "female",
+    "probability": 100,
+    "count": 169
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 63,
+    "IDtitle": 507854612184810462,
+    "title": "Special issue on \"Combining Compositionality and Concurrency\": part 1.",
+    "year": 2015,
+    "author_id": 6126614397436158630,
+    "author_full_name": "Ernst R\u00fcdiger Olderog",
+    "author_first_name": "Ernst",
+    "gender": "male",
+    "probability": 100,
+    "count": 25
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 64,
+    "IDtitle": 1415331088852854083,
+    "title": "Automatic verification of concurrent systems using a formula-based compositional approach.",
+    "year": 2002,
+    "author_id": 3292998891637100312,
+    "author_full_name": "Antonella Santone",
+    "author_first_name": "Antonella",
+    "gender": "female",
+    "probability": 89,
+    "count": 489
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 65,
+    "IDtitle": 5837101799866436747,
+    "title": "On Removing the Machine from the Language.",
+    "year": 1978,
+    "author_id": 6644338722893386793,
+    "author_full_name": "Eric C  R  Hehner",
+    "author_first_name": "Eric",
+    "gender": "male",
+    "probability": 100,
+    "count": 4110
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 66,
+    "IDtitle": 693426634429191448,
+    "title": "Complete Problems for Space Bounded Subclasses of NP.",
+    "year": 1985,
+    "author_id": 2969583616866648386,
+    "author_full_name": "Moon Jung Chung",
+    "author_first_name": "Moon",
+    "gender": "female",
+    "probability": 67,
+    "count": 69
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 67,
+    "IDtitle": 693426634429191448,
+    "title": "Complete Problems for Space Bounded Subclasses of NP.",
+    "year": 1985,
+    "author_id": 6285377664015943630,
+    "author_full_name": "Michael Evangelist",
+    "author_first_name": "Michael",
+    "gender": "male",
+    "probability": 100,
+    "count": 11094
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236a9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 68,
+    "IDtitle": 693426634429191448,
+    "title": "Complete Problems for Space Bounded Subclasses of NP.",
+    "year": 1985,
+    "author_id": 4776463095890787909,
+    "author_full_name": "Ivan Hal Sudborough",
+    "author_first_name": "Ivan",
+    "gender": "male",
+    "probability": 100,
+    "count": 1905
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236aa643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 69,
+    "IDtitle": 229684198332296012,
+    "title": "Efficient controller synthesis for a fragment of MTL",
+    "year": 2014,
+    "author_id": 4992631621007080176,
+    "author_full_name": "Peter E  Bulychev",
+    "author_first_name": "Peter",
+    "gender": "male",
+    "probability": 100,
+    "count": 4373
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ab643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 70,
+    "IDtitle": 229684198332296012,
+    "title": "Efficient controller synthesis for a fragment of MTL",
+    "year": 2014,
+    "author_id": 7066527366743002733,
+    "author_full_name": "Alexandre David",
+    "author_first_name": "Alexandre",
+    "gender": "male",
+    "probability": 100,
+    "count": 899
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ac643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 71,
+    "IDtitle": 229684198332296012,
+    "title": "Efficient controller synthesis for a fragment of MTL",
+    "year": 2014,
+    "author_id": 2449880524285462241,
+    "author_full_name": "Kim G  Larsen",
+    "author_first_name": "Kim",
+    "gender": "female",
+    "probability": 88,
+    "count": 3561
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ad643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 72,
+    "IDtitle": 229684198332296012,
+    "title": "Efficient controller synthesis for a fragment of MTL",
+    "year": 2014,
+    "author_id": 1831042356311827465,
+    "author_full_name": "Guangyuan Li",
+    "author_first_name": "Guangyuan",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ae643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 73,
+    "IDtitle": 1520710517209755071,
+    "title": "Two Notions of Correctness and Their Relation to Testing.",
+    "year": 1982,
+    "author_id": 6318535570849032201,
+    "author_full_name": "Timothy A  Budd",
+    "author_first_name": "Timothy",
+    "gender": "male",
+    "probability": 100,
+    "count": 809
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236af643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 74,
+    "IDtitle": 1520710517209755071,
+    "title": "Two Notions of Correctness and Their Relation to Testing.",
+    "year": 1982,
+    "author_id": 254435769910617591,
+    "author_full_name": "Dana Angluin",
+    "author_first_name": "Dana",
+    "gender": "female",
+    "probability": 92,
+    "count": 1154
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 75,
+    "IDtitle": 125554101242610576,
+    "title": "Best Huffman Trees.",
+    "year": 1981,
+    "author_id": 8925883121968679108,
+    "author_full_name": "George Markowsky",
+    "author_first_name": "George",
+    "gender": "male",
+    "probability": 99,
+    "count": 2098
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 76,
+    "IDtitle": 2643735184600545083,
+    "title": "Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.",
+    "year": 1981,
+    "author_id": 8996641974051868832,
+    "author_full_name": "Manfred P  Stadel",
+    "author_first_name": "Manfred",
+    "gender": "male",
+    "probability": 100,
+    "count": 39
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 77,
+    "IDtitle": 5121497309989356687,
+    "title": "The Parsing Problem for Affix Grammars.",
+    "year": 1977,
+    "author_id": 8426675288257978268,
+    "author_full_name": "David A  Watt",
+    "author_first_name": "David",
+    "gender": "male",
+    "probability": 100,
+    "count": 12593
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 78,
+    "IDtitle": 7504404188769369190,
+    "title": "On Efficient Entreeings.",
+    "year": 1993,
+    "author_id": 242546016822185661,
+    "author_full_name": "Paul S  Amerins",
+    "author_first_name": "Paul",
+    "gender": "male",
+    "probability": 100,
+    "count": 5931
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 79,
+    "IDtitle": 7504404188769369190,
+    "title": "On Efficient Entreeings.",
+    "year": 1993,
+    "author_id": 4506609606966278682,
+    "author_full_name": "Ricardo A  Baeza Yates",
+    "author_first_name": "Ricardo",
+    "gender": "male",
+    "probability": 100,
+    "count": 1916
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 80,
+    "IDtitle": 7504404188769369190,
+    "title": "On Efficient Entreeings.",
+    "year": 1993,
+    "author_id": 4265642230803612094,
+    "author_full_name": "Derick Wood",
+    "author_first_name": "Derick",
+    "gender": "male",
+    "probability": 100,
+    "count": 49
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 81,
+    "IDtitle": 5432599522829022243,
+    "title": "Persistence of Vector Replacement Systems is Decidable.",
+    "year": 1981,
+    "author_id": 922732019771297971,
+    "author_full_name": "Ernst W  Mayr",
+    "author_first_name": "Ernst",
+    "gender": "male",
+    "probability": 100,
+    "count": 25
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 82,
+    "IDtitle": 5360668602755496883,
+    "title": "Implementing Daubechies Wavelet Transform with Weighted Finite Automata.",
+    "year": 1997,
+    "author_id": 5833135634582792899,
+    "author_full_name": "Karel Culik II",
+    "author_first_name": "Karel",
+    "gender": "male",
+    "probability": 92,
+    "count": 90
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 83,
+    "IDtitle": 5360668602755496883,
+    "title": "Implementing Daubechies Wavelet Transform with Weighted Finite Automata.",
+    "year": 1997,
+    "author_id": 4488421606115243201,
+    "author_full_name": "Simant Dube",
+    "author_first_name": "Simant",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236b9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 84,
+    "IDtitle": 6854698762180101800,
+    "title": "Functional Behavior in Data Spaces.",
+    "year": 1978,
+    "author_id": 1954743033134626598,
+    "author_full_name": "Armin B  Cremers",
+    "author_first_name": "Armin",
+    "gender": "male",
+    "probability": 99,
+    "count": 131
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ba643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 85,
+    "IDtitle": 6854698762180101800,
+    "title": "Functional Behavior in Data Spaces.",
+    "year": 1978,
+    "author_id": 86199968288476837,
+    "author_full_name": "Thomas N  Hibbard",
+    "author_first_name": "Thomas",
+    "gender": "male",
+    "probability": 100,
+    "count": 3753
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236bb643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 86,
+    "IDtitle": 3251522927230774572,
+    "title": "Inductive Completion with Retracts.",
+    "year": 1988,
+    "author_id": 8489112333284550844,
+    "author_full_name": "William P  R  Mitchell",
+    "author_first_name": "William",
+    "gender": "male",
+    "probability": 100,
+    "count": 2626
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236bc643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 87,
+    "IDtitle": 7426689956021174145,
+    "title": "Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.",
+    "year": 1987,
+    "author_id": 1435274251839285127,
+    "author_full_name": "Patrick Cousot",
+    "author_first_name": "Patrick",
+    "gender": "male",
+    "probability": 100,
+    "count": 2877
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236bd643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 88,
+    "IDtitle": 7426689956021174145,
+    "title": "Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.",
+    "year": 1987,
+    "author_id": 8522030019631763382,
+    "author_full_name": "Radhia Cousot",
+    "author_first_name": "Radhia",
+    "gender": "female",
+    "probability": 100,
+    "count": 2
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236be643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 89,
+    "IDtitle": 8608839727076988870,
+    "title": "Complete Parameterized Families of Job Scheduling Strategies.",
+    "year": 1977,
+    "author_id": 3697128420737317993,
+    "author_full_name": "Isi Mitrani",
+    "author_first_name": "Isi",
+    "gender": "female",
+    "probability": 86,
+    "count": 14
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236bf643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 90,
+    "IDtitle": 8608839727076988870,
+    "title": "Complete Parameterized Families of Job Scheduling Strategies.",
+    "year": 1977,
+    "author_id": 2362392644592818921,
+    "author_full_name": "J  H  Hine",
+    "author_first_name": "J",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 91,
+    "IDtitle": 3144085014203914529,
+    "title": "Modelling higher-order dual nondeterminacy.",
+    "year": 2008,
+    "author_id": 1485053916158683279,
+    "author_full_name": "Joseph M  Morris",
+    "author_first_name": "Joseph",
+    "gender": "male",
+    "probability": 99,
+    "count": 2213
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 92,
+    "IDtitle": 3144085014203914529,
+    "title": "Modelling higher-order dual nondeterminacy.",
+    "year": 2008,
+    "author_id": 1903871206652555563,
+    "author_full_name": "Malcolm Tyrrell",
+    "author_first_name": "Malcolm",
+    "gender": "male",
+    "probability": 100,
+    "count": 227
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 93,
+    "IDtitle": 8298405805258911115,
+    "title": "Dispatcher Primitives for the Construction of Operating System Kernels.",
+    "year": 1975,
+    "author_id": 5062435675607079158,
+    "author_full_name": "J\u00fcrgen Nehmer",
+    "author_first_name": "J\u00fcrgen",
+    "gender": "male",
+    "probability": 100,
+    "count": 48
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 94,
+    "IDtitle": 22247141641229749,
+    "title": "A Note on Multihead Automata and Context-Sensitive Languages",
+    "year": 1973,
+    "author_id": 9048253177304305839,
+    "author_full_name": "Walter J  Savitch",
+    "author_first_name": "Walter",
+    "gender": "male",
+    "probability": 100,
+    "count": 864
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 95,
+    "IDtitle": 8480887491427998583,
+    "title": "A Recursive Second Order Initial Algebra Specification of Primitive Recursion.",
+    "year": 1994,
+    "author_id": 5435823397805164446,
+    "author_full_name": "Karl Meinke",
+    "author_first_name": "Karl",
+    "gender": "male",
+    "probability": 100,
+    "count": 700
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 96,
+    "IDtitle": 4600172254276126704,
+    "title": "Compositional schedulability analysis of real-time actor-based systems.",
+    "year": 2017,
+    "author_id": 6731936049477603221,
+    "author_full_name": "Mohammad Mahdi Jaghoori",
+    "author_first_name": "Mohammad",
+    "gender": "male",
+    "probability": 100,
+    "count": 919
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 97,
+    "IDtitle": 4600172254276126704,
+    "title": "Compositional schedulability analysis of real-time actor-based systems.",
+    "year": 2017,
+    "author_id": 8890966579521030901,
+    "author_full_name": "Frank S  de Boer",
+    "author_first_name": "Frank",
+    "gender": "male",
+    "probability": 100,
+    "count": 1565
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 98,
+    "IDtitle": 4600172254276126704,
+    "title": "Compositional schedulability analysis of real-time actor-based systems.",
+    "year": 2017,
+    "author_id": 6455835213492388746,
+    "author_full_name": "Delphine Longuet",
+    "author_first_name": "Delphine",
+    "gender": "female",
+    "probability": 100,
+    "count": 429
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 99,
+    "IDtitle": 4600172254276126704,
+    "title": "Compositional schedulability analysis of real-time actor-based systems.",
+    "year": 2017,
+    "author_id": 8059808321760690795,
+    "author_full_name": "Tom Chothia",
+    "author_first_name": "Tom",
+    "gender": "male",
+    "probability": 100,
+    "count": 3736
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236c9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 100,
+    "IDtitle": 4600172254276126704,
+    "title": "Compositional schedulability analysis of real-time actor-based systems.",
+    "year": 2017,
+    "author_id": 7086505084658752958,
+    "author_full_name": "Marjan Sirjani",
+    "author_first_name": "Marjan",
+    "gender": "female",
+    "probability": 76,
+    "count": 97
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ca643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 101,
+    "IDtitle": 5834161001741451926,
+    "title": "Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.",
+    "year": 1994,
+    "author_id": 5268428881122949300,
+    "author_full_name": "Joost Engelfriet",
+    "author_first_name": "Joost",
+    "gender": "male",
+    "probability": 100,
+    "count": 28
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236cb643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 102,
+    "IDtitle": 5834161001741451926,
+    "title": "Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.",
+    "year": 1994,
+    "author_id": 3368223923927160646,
+    "author_full_name": "Linda Heyker",
+    "author_first_name": "Linda",
+    "gender": "female",
+    "probability": 100,
+    "count": 4323
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236cc643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 103,
+    "IDtitle": 5834161001741451926,
+    "title": "Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.",
+    "year": 1994,
+    "author_id": 4788179177973073679,
+    "author_full_name": "George Leih",
+    "author_first_name": "George",
+    "gender": "male",
+    "probability": 99,
+    "count": 2098
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236cd643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 104,
+    "IDtitle": 9078101295981013876,
+    "title": "Worst Case Performance of Weighted Buddy Systems.",
+    "year": 1987,
+    "author_id": 2026975706853391699,
+    "author_full_name": "Shyamal K  Chowdhury",
+    "author_first_name": "Shyamal",
+    "gender": "male",
+    "probability": 86,
+    "count": 7
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ce643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 105,
+    "IDtitle": 9078101295981013876,
+    "title": "Worst Case Performance of Weighted Buddy Systems.",
+    "year": 1987,
+    "author_id": 3231005583090431180,
+    "author_full_name": "Pradip K  Srimani",
+    "author_first_name": "Pradip",
+    "gender": "male",
+    "probability": 100,
+    "count": 15
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236cf643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 106,
+    "IDtitle": 4809210640796082357,
+    "title": "Contextual Nets.",
+    "year": 1995,
+    "author_id": 4991166873991699320,
+    "author_full_name": "Ugo Montanari",
+    "author_first_name": "Ugo",
+    "gender": "male",
+    "probability": 97,
+    "count": 60
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 107,
+    "IDtitle": 4809210640796082357,
+    "title": "Contextual Nets.",
+    "year": 1995,
+    "author_id": 4721107633255837,
+    "author_full_name": "Francesca Rossi",
+    "author_first_name": "Francesca",
+    "gender": "female",
+    "probability": 100,
+    "count": 1122
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 108,
+    "IDtitle": 4719899584638054396,
+    "title": "COSY - A System Specification Language Based on Paths and Processes.",
+    "year": 1979,
+    "author_id": 5865090597667120004,
+    "author_full_name": "Peter E  Lauer",
+    "author_first_name": "Peter",
+    "gender": "male",
+    "probability": 100,
+    "count": 4373
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 109,
+    "IDtitle": 4719899584638054396,
+    "title": "COSY - A System Specification Language Based on Paths and Processes.",
+    "year": 1979,
+    "author_id": 6235431601955507393,
+    "author_full_name": "Piero R  Torrigiani",
+    "author_first_name": "Piero",
+    "gender": "male",
+    "probability": 99,
+    "count": 104
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 110,
+    "IDtitle": 4719899584638054396,
+    "title": "COSY - A System Specification Language Based on Paths and Processes.",
+    "year": 1979,
+    "author_id": 9132695662888148692,
+    "author_full_name": "M  W  Shields",
+    "author_first_name": "M",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 111,
+    "IDtitle": 8025224897165721223,
+    "title": "Applying relation algebra and Rel View to solve problems on orders and lattices.",
+    "year": 2008,
+    "author_id": 5832551114687927180,
+    "author_full_name": "Rudolf Berghammer",
+    "author_first_name": "Rudolf",
+    "gender": "male",
+    "probability": 97,
+    "count": 63
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 112,
+    "IDtitle": 5540040222356611216,
+    "title": "Eliminating Unit Productions from LR Parsers.",
+    "year": 1977,
+    "author_id": 8842258777688259768,
+    "author_full_name": "David Pager",
+    "author_first_name": "David",
+    "gender": "male",
+    "probability": 100,
+    "count": 12593
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 113,
+    "IDtitle": 4839390065152062429,
+    "title": "Attribute (Re)evaluation in OPTRAN.",
+    "year": 1988,
+    "author_id": 4281420036589282299,
+    "author_full_name": "Peter Lipps",
+    "author_first_name": "Peter",
+    "gender": "male",
+    "probability": 100,
+    "count": 4373
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 114,
+    "IDtitle": 4839390065152062429,
+    "title": "Attribute (Re)evaluation in OPTRAN.",
+    "year": 1988,
+    "author_id": 4461659281372391443,
+    "author_full_name": "Ulrich M\u00f6ncke",
+    "author_first_name": "Ulrich",
+    "gender": "male",
+    "probability": 100,
+    "count": 40
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 115,
+    "IDtitle": 4839390065152062429,
+    "title": "Attribute (Re)evaluation in OPTRAN.",
+    "year": 1988,
+    "author_id": 8202752037046837508,
+    "author_full_name": "Matthias Olk",
+    "author_first_name": "Matthias",
+    "gender": "male",
+    "probability": 100,
+    "count": 257
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236d9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 116,
+    "IDtitle": 4839390065152062429,
+    "title": "Attribute (Re)evaluation in OPTRAN.",
+    "year": 1988,
+    "author_id": 4852373527273637743,
+    "author_full_name": "Reinhard Wilhelm",
+    "author_first_name": "Reinhard",
+    "gender": "male",
+    "probability": 100,
+    "count": 22
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236da643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 117,
+    "IDtitle": 4532601422199889385,
+    "title": "On Parallel Integer Sorting.",
+    "year": 1992,
+    "author_id": 3868432868625618189,
+    "author_full_name": "Sanguthevar Rajasekaran",
+    "author_first_name": "Sanguthevar",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236db643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 118,
+    "IDtitle": 4532601422199889385,
+    "title": "On Parallel Integer Sorting.",
+    "year": 1992,
+    "author_id": 6079477661757507095,
+    "author_full_name": "Sandeep Sen",
+    "author_first_name": "Sandeep",
+    "gender": "male",
+    "probability": 89,
+    "count": 272
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236dc643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 119,
+    "IDtitle": 5142472435976941640,
+    "title": "Domain Independence and the Relational Calculus.",
+    "year": 1994,
+    "author_id": 8379118275631605031,
+    "author_full_name": "Richard Hull 0001",
+    "author_first_name": "Richard",
+    "gender": "male",
+    "probability": 100,
+    "count": 4381
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236dd643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 120,
+    "IDtitle": 5142472435976941640,
+    "title": "Domain Independence and the Relational Calculus.",
+    "year": 1994,
+    "author_id": 1029856945749642706,
+    "author_full_name": "Jianwen Su",
+    "author_first_name": "Jianwen",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236de643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 121,
+    "IDtitle": 635209267249368474,
+    "title": "Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.",
+    "year": 1996,
+    "author_id": 8717900815026883486,
+    "author_full_name": "John K  Lee",
+    "author_first_name": "John",
+    "gender": "male",
+    "probability": 99,
+    "count": 9931
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236df643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 122,
+    "IDtitle": 635209267249368474,
+    "title": "Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.",
+    "year": 1996,
+    "author_id": 19153183972412175,
+    "author_full_name": "Alan Fekete",
+    "author_first_name": "Alan",
+    "gender": "male",
+    "probability": 100,
+    "count": 2079
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 123,
+    "IDtitle": 7012470463498482385,
+    "title": "Bounded Quantification and Relations Recognizable by Finite Automata.",
+    "year": 1978,
+    "author_id": 6438649911126606742,
+    "author_full_name": "Teuvo Laurinolli",
+    "author_first_name": "Teuvo",
+    "gender": "male",
+    "probability": 100,
+    "count": 1
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 124,
+    "IDtitle": 6579331132748213205,
+    "title": "A Complete Algebraic Characterization of Behavioral Subtyping.",
+    "year": 2000,
+    "author_id": 4678267593212717753,
+    "author_full_name": "Gary T  Leavens",
+    "author_first_name": "Gary",
+    "gender": "male",
+    "probability": 100,
+    "count": 2132
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 125,
+    "IDtitle": 6579331132748213205,
+    "title": "A Complete Algebraic Characterization of Behavioral Subtyping.",
+    "year": 2000,
+    "author_id": 2697774300453741761,
+    "author_full_name": "Don Pigozzi",
+    "author_first_name": "Don",
+    "gender": "male",
+    "probability": 99,
+    "count": 1025
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 126,
+    "IDtitle": 1312152921876529522,
+    "title": "Negotiation as concurrency primitive.",
+    "year": 2019,
+    "author_id": 66171316239260922,
+    "author_full_name": "J\u00f6rg Desel",
+    "author_first_name": "J\u00f6rg",
+    "gender": "male",
+    "probability": 100,
+    "count": 53
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 127,
+    "IDtitle": 1312152921876529522,
+    "title": "Negotiation as concurrency primitive.",
+    "year": 2019,
+    "author_id": 2819572083739071948,
+    "author_full_name": "Javier Esparza",
+    "author_first_name": "Javier",
+    "gender": "male",
+    "probability": 100,
+    "count": 1975
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 128,
+    "IDtitle": 1312152921876529522,
+    "title": "Negotiation as concurrency primitive.",
+    "year": 2019,
+    "author_id": 4254074045829774681,
+    "author_full_name": "Philipp Hoffmann",
+    "author_first_name": "Philipp",
+    "gender": "male",
+    "probability": 100,
+    "count": 205
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 129,
+    "IDtitle": 2284698957975986588,
+    "title": "Efficient execution of dynamically controllable simple temporal networks with uncertainty.",
+    "year": 2016,
+    "author_id": 2815710281647639304,
+    "author_full_name": "Luke Hunsberger",
+    "author_first_name": "Luke",
+    "gender": "male",
+    "probability": 100,
+    "count": 1408
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 130,
+    "IDtitle": 628643546889381979,
+    "title": "Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.",
+    "year": 1997,
+    "author_id": 2774970310897396495,
+    "author_full_name": "Y  Daniel Liang",
+    "author_first_name": "Y",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 131,
+    "IDtitle": 628643546889381979,
+    "title": "Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.",
+    "year": 1997,
+    "author_id": 5380657262564689996,
+    "author_full_name": "Maw Shang Chang",
+    "author_first_name": "Maw",
+    "gender": "female",
+    "probability": 50,
+    "count": 2
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236e9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 132,
+    "IDtitle": 6514092074394380168,
+    "title": "Behavioural Approaches to Algebraic Specifications: A Comparative Study.",
+    "year": 1994,
+    "author_id": 8362307615330432377,
+    "author_full_name": "Gilles Bernot",
+    "author_first_name": "Gilles",
+    "gender": "male",
+    "probability": 100,
+    "count": 225
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ea643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 133,
+    "IDtitle": 6514092074394380168,
+    "title": "Behavioural Approaches to Algebraic Specifications: A Comparative Study.",
+    "year": 1994,
+    "author_id": 7729976952930627425,
+    "author_full_name": "Michel Bidoit",
+    "author_first_name": "Michel",
+    "gender": "male",
+    "probability": 96,
+    "count": 729
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236eb643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 134,
+    "IDtitle": 6514092074394380168,
+    "title": "Behavioural Approaches to Algebraic Specifications: A Comparative Study.",
+    "year": 1994,
+    "author_id": 5792505030885107124,
+    "author_full_name": "Teodor Knapik",
+    "author_first_name": "Teodor",
+    "gender": "male",
+    "probability": 100,
+    "count": 9
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ec643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 135,
+    "IDtitle": 8865864308657970854,
+    "title": "Instruction sequence processing operators.",
+    "year": 2012,
+    "author_id": 6434929986739489303,
+    "author_full_name": "Jan A  Bergstra",
+    "author_first_name": "Jan",
+    "gender": "male",
+    "probability": 60,
+    "count": 1663
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ed643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 136,
+    "IDtitle": 8865864308657970854,
+    "title": "Instruction sequence processing operators.",
+    "year": 2012,
+    "author_id": 6747765476020262219,
+    "author_full_name": "C  A  Middelburg",
+    "author_first_name": "C",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ee643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 137,
+    "IDtitle": 3750409657869603835,
+    "title": "What is Failure? An Approach to Constructive Negation.",
+    "year": 1995,
+    "author_id": 4160479155386489978,
+    "author_full_name": "Wlodzimierz Drabent",
+    "author_first_name": "Wlodzimierz",
+    "gender": "male",
+    "probability": 100,
+    "count": 1
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ef643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 138,
+    "IDtitle": 4128728376970567667,
+    "title": "STG decomposition strategies in combination with unfolding.",
+    "year": 2009,
+    "author_id": 125454898831589956,
+    "author_full_name": "Victor Khomenko",
+    "author_first_name": "Victor",
+    "gender": "male",
+    "probability": 100,
+    "count": 2234
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f0643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 139,
+    "IDtitle": 4128728376970567667,
+    "title": "STG decomposition strategies in combination with unfolding.",
+    "year": 2009,
+    "author_id": 4760586856085208495,
+    "author_full_name": "Mark Sch\u00e4fer",
+    "author_first_name": "Mark",
+    "gender": "male",
+    "probability": 100,
+    "count": 6176
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f1643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 140,
+    "IDtitle": 4128728376970567667,
+    "title": "STG decomposition strategies in combination with unfolding.",
+    "year": 2009,
+    "author_id": 1011563857658732572,
+    "author_full_name": "Walter Vogler",
+    "author_first_name": "Walter",
+    "gender": "male",
+    "probability": 100,
+    "count": 864
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f2643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 141,
+    "IDtitle": 4128728376970567667,
+    "title": "STG decomposition strategies in combination with unfolding.",
+    "year": 2009,
+    "author_id": 3341495426011999936,
+    "author_full_name": "Ralf Wollowski",
+    "author_first_name": "Ralf",
+    "gender": "male",
+    "probability": 100,
+    "count": 86
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f3643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 142,
+    "IDtitle": 8729933689608890076,
+    "title": "Quad Trees: A Data Structure for Retrieval on Composite Keys.",
+    "year": 1974,
+    "author_id": 528105572717601050,
+    "author_full_name": "Raphael A  Finkel",
+    "author_first_name": "Raphael",
+    "gender": "male",
+    "probability": 100,
+    "count": 246
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f4643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 143,
+    "IDtitle": 8729933689608890076,
+    "title": "Quad Trees: A Data Structure for Retrieval on Composite Keys.",
+    "year": 1974,
+    "author_id": 8539033999806242527,
+    "author_full_name": "Jon Louis Bentley",
+    "author_first_name": "Jon",
+    "gender": "male",
+    "probability": 100,
+    "count": 1790
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f5643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 144,
+    "IDtitle": 7079912760874664410,
+    "title": "On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.",
+    "year": 1983,
+    "author_id": 8732881116762311370,
+    "author_full_name": "Alfred Schmitt",
+    "author_first_name": "Alfred",
+    "gender": "male",
+    "probability": 100,
+    "count": 230
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f6643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 145,
+    "IDtitle": 4642598959922099508,
+    "title": "A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.",
+    "year": 1976,
+    "author_id": 4679744411280448848,
+    "author_full_name": "Jacques Labetoulle",
+    "author_first_name": "Jacques",
+    "gender": "male",
+    "probability": 99,
+    "count": 280
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f7643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 146,
+    "IDtitle": 4642598959922099508,
+    "title": "A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.",
+    "year": 1976,
+    "author_id": 7773145298234176109,
+    "author_full_name": "Guy Pujolle",
+    "author_first_name": "Guy",
+    "gender": "male",
+    "probability": 100,
+    "count": 445
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f8643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 147,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 3490466896339518421,
+    "author_full_name": "Lijun Zhang 0001",
+    "author_first_name": "Lijun",
+    "gender": "male",
+    "probability": 75,
+    "count": 4
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236f9643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 148,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 4058153370944992986,
+    "author_full_name": "Pengfei Yang",
+    "author_first_name": "Pengfei",
+    "gender": "male",
+    "probability": 100,
+    "count": 3
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236fa643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 149,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 3246565300169702937,
+    "author_full_name": "Lei Song 0001",
+    "author_first_name": "Lei",
+    "gender": "female",
+    "probability": 56,
+    "count": 54
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236fb643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 150,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 8466810106430980597,
+    "author_full_name": "Holger Hermanns",
+    "author_first_name": "Holger",
+    "gender": "male",
+    "probability": 100,
+    "count": 44
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236fc643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 151,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 457354259821222364,
+    "author_full_name": "Christian Eisentraut",
+    "author_first_name": "Christian",
+    "gender": "male",
+    "probability": 99,
+    "count": 2548
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236fd643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 152,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 1767680818813790324,
+    "author_full_name": "David N  Jansen",
+    "author_first_name": "David",
+    "gender": "male",
+    "probability": 100,
+    "count": 12593
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236fe643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 153,
+    "IDtitle": 1485775276092809801,
+    "title": "Probabilistic bisimulation for realistic schedulers.",
+    "year": 2018,
+    "author_id": 8329878640275509397,
+    "author_full_name": "Jens Chr  Godskesen",
+    "author_first_name": "Jens",
+    "gender": "male",
+    "probability": 100,
+    "count": 292
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc236ff643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 154,
+    "IDtitle": 2144090346597440549,
+    "title": "Explaining the Wheel Sieve.",
+    "year": 1982,
+    "author_id": 3882442300866425360,
+    "author_full_name": "Paul Pritchard",
+    "author_first_name": "Paul",
+    "gender": "male",
+    "probability": 100,
+    "count": 5931
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23700643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 155,
+    "IDtitle": 7105948572488833463,
+    "title": "Another Polynomial Homomorphism.",
+    "year": 1976,
+    "author_id": 8195965336197773886,
+    "author_full_name": "Robert T  Moenck",
+    "author_first_name": "Robert",
+    "gender": "male",
+    "probability": 100,
+    "count": 5222
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23701643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 156,
+    "IDtitle": 3989613571219019334,
+    "title": "Variance Reduction Techniques for the Simulation of Markov Process.",
+    "year": 1980,
+    "author_id": 8182405095641497212,
+    "author_full_name": "Philip Heidelberger",
+    "author_first_name": "Philip",
+    "gender": "male",
+    "probability": 100,
+    "count": 1097
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23702643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 157,
+    "IDtitle": 1615077716264025943,
+    "title": "State complexity of deletion and bipolar deletion.",
+    "year": 2016,
+    "author_id": 2578715657988560379,
+    "author_full_name": "Yo Sub Han",
+    "author_first_name": "Yo",
+    "gender": "female",
+    "probability": 54,
+    "count": 79
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23703643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 158,
+    "IDtitle": 1615077716264025943,
+    "title": "State complexity of deletion and bipolar deletion.",
+    "year": 2016,
+    "author_id": 319934851665986837,
+    "author_full_name": "Sang Ki Ko",
+    "author_first_name": "Sang",
+    "gender": "male",
+    "probability": 84,
+    "count": 55
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23704643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 159,
+    "IDtitle": 1615077716264025943,
+    "title": "State complexity of deletion and bipolar deletion.",
+    "year": 2016,
+    "author_id": 7450365851975779113,
+    "author_full_name": "Kai Salomaa",
+    "author_first_name": "Kai",
+    "gender": "male",
+    "probability": 87,
+    "count": 207
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23705643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 160,
+    "IDtitle": 3993728882567317654,
+    "title": "Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.",
+    "year": 1986,
+    "author_id": 1379419620726027547,
+    "author_full_name": "Siegfried Bublitz",
+    "author_first_name": "Siegfried",
+    "gender": "male",
+    "probability": 100,
+    "count": 12
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23706643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 161,
+    "IDtitle": 862272672031262059,
+    "title": "Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.",
+    "year": 2019,
+    "author_id": 4917796553922542445,
+    "author_full_name": "Masoud Ebrahimi",
+    "author_first_name": "Masoud",
+    "gender": "male",
+    "probability": 100,
+    "count": 86
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23707643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 162,
+    "IDtitle": 862272672031262059,
+    "title": "Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.",
+    "year": 2019,
+    "author_id": 6781774183233934385,
+    "author_full_name": "Gholamreza Sotudeh",
+    "author_first_name": "Gholamreza",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23708643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 163,
+    "IDtitle": 862272672031262059,
+    "title": "Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.",
+    "year": 2019,
+    "author_id": 312873337895935645,
+    "author_full_name": "Ali Movaghar",
+    "author_first_name": "Ali",
+    "gender": "male",
+    "probability": 85,
+    "count": 3351
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23709643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 164,
+    "IDtitle": 7634302879788274585,
+    "title": "Regular and context-free nominal traces.",
+    "year": 2017,
+    "author_id": 4092000507850349161,
+    "author_full_name": "Pierpaolo Degano",
+    "author_first_name": "Pierpaolo",
+    "gender": "male",
+    "probability": 100,
+    "count": 34
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370a643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 165,
+    "IDtitle": 7634302879788274585,
+    "title": "Regular and context-free nominal traces.",
+    "year": 2017,
+    "author_id": 9096651890157576952,
+    "author_full_name": "Gian Luigi Ferrari",
+    "author_first_name": "Gian",
+    "gender": "male",
+    "probability": 99,
+    "count": 133
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370b643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 166,
+    "IDtitle": 7634302879788274585,
+    "title": "Regular and context-free nominal traces.",
+    "year": 2017,
+    "author_id": 72129459122353427,
+    "author_full_name": "Gianluca Mezzetti",
+    "author_first_name": "Gianluca",
+    "gender": "male",
+    "probability": 100,
+    "count": 308
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370c643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 167,
+    "IDtitle": 7315872078232450433,
+    "title": "Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.",
+    "year": 2013,
+    "author_id": 4725480425398564985,
+    "author_full_name": "Benedek Nagy",
+    "author_first_name": "Benedek",
+    "gender": "male",
+    "probability": 100,
+    "count": 1
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370d643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 168,
+    "IDtitle": 7315872078232450433,
+    "title": "Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.",
+    "year": 2013,
+    "author_id": 3258918382212815874,
+    "author_full_name": "Friedrich Otto",
+    "author_first_name": "Friedrich",
+    "gender": "male",
+    "probability": 100,
+    "count": 18
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370e643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 169,
+    "IDtitle": 2145212027759075272,
+    "title": "Special issue: Synthesis and SYNT 2014.",
+    "year": 2017,
+    "author_id": 1899899773478337782,
+    "author_full_name": "Krishnendu Chatterjee",
+    "author_first_name": "Krishnendu",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc2370f643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 170,
+    "IDtitle": 2145212027759075272,
+    "title": "Special issue: Synthesis and SYNT 2014.",
+    "year": 2017,
+    "author_id": 8819946115722809683,
+    "author_full_name": "R\u00fcdiger Ehlers",
+    "author_first_name": "R\u00fcdiger",
+    "gender": "male",
+    "probability": 100,
+    "count": 16
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23710643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 171,
+    "IDtitle": 3369938532721513746,
+    "title": "On the Synchronization in Parallel Communicating Grammar Systems.",
+    "year": 1993,
+    "author_id": 4317509166810821091,
+    "author_full_name": "Gheorghe Paun",
+    "author_first_name": "Gheorghe",
+    "gender": "male",
+    "probability": 83,
+    "count": 6
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23711643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 172,
+    "IDtitle": 4510694463143312068,
+    "title": "Weakly Context-Sensitive Languages as Model for Programming Languages.",
+    "year": 1974,
+    "author_id": 6859793756362873154,
+    "author_full_name": "P  F  Schuler",
+    "author_first_name": "P",
+    "gender": "Unknown",
+    "probability": 0,
+    "count": 0
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23712643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 173,
+    "IDtitle": 122822064493737870,
+    "title": "Rules of Inference for Procedure Calls.",
+    "year": 1977,
+    "author_id": 7159095943377152449,
+    "author_full_name": "George W  Ernst",
+    "author_first_name": "George",
+    "gender": "male",
+    "probability": 99,
+    "count": 2098
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23713643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 174,
+    "IDtitle": 7665936325621415589,
+    "title": "The Construction of Operator Interfaces Based on Logical Input Devices.",
+    "year": 1983,
+    "author_id": 4495646482810179884,
+    "author_full_name": "G\u00fcnther E  Pfaff",
+    "author_first_name": "G\u00fcnther",
+    "gender": "male",
+    "probability": 100,
+    "count": 6
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23714643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 175,
+    "IDtitle": 2143643618565919012,
+    "title": "High Level Tree Transducers and Iterated Pushdown Tree Transducers.",
+    "year": 1988,
+    "author_id": 5268428881122949300,
+    "author_full_name": "Joost Engelfriet",
+    "author_first_name": "Joost",
+    "gender": "male",
+    "probability": 100,
+    "count": 28
+  }
+}{
+  "_index": "practice",
+  "_type": "article",
+  "_id": "bfc23715643c11e99aaf080027dd2cfc",
+  "_source": {
+    "order": 176,
+    "IDtitle": 2143643618565919012,
+    "title": "High Level Tree Transducers and Iterated Pushdown Tree Transducers.",
+    "year": 1988,
+    "author_id": 2162599423723811057,
+    "author_full_name": "Heiko Vogler",
+    "author_first_name": "Heiko",
+    "gender": "male",
+    "probability": 100,
+    "count": 46
+  }
+}
